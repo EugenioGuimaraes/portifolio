@@ -19,7 +19,7 @@ export const socialLinks = {
 	// url: "https://1hanzla100.github.io/",
 	linkedin: "https://www.linkedin.com/in/eugenio-guimaraes/",
 	github: "https://github.com/EugenioGuimaraes",
-	instagram: "https://www.instagram.com/zenolobus/",
+	//instagram: "https://www.instagram.com/zenolobus/",
 	// facebook: "https://www.facebook.com/1hanzla100",
 	// twitter: "https://twitter.com/1hanzla100",
 };
@@ -38,14 +38,10 @@ export const skillsSection = {
 				),
 				emoji("⚡ Desenvolvimento de static websites usando Next.js"),
 				emoji(
-					"⚡ Desenvolvimento de RESTful APIs com Node.js & PostgreSQL"
+					"⚡ Desenvolvimento de RESTful APIs com Node.js & PostgreSQL || Csharp & SQLServer"
 				),
 			],
 			softwareSkills: [
-				{
-					skillName: "HTML-5",
-					fontAwesomeClassname: "vscode-icons:file-type-html",
-				},
 				{
 					skillName: "CSS-3",
 					fontAwesomeClassname: "vscode-icons:file-type-css",
@@ -67,12 +63,24 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-light-next",
 				},
 				{
+					skillName: "DotNet",
+					fontAwesomeClassname: "",
+				},
+				{
+					skillName: "Entity Framework",
+					fontAwesomeClassname: "",
+				},
+				{
 					skillName: "NPM",
 					fontAwesomeClassname: "logos:npm-icon",
 				},
 				{
 					skillName: "Yarn",
 					fontAwesomeClassname: "logos:yarn",
+				},
+				{
+					skillName: "NuGet package",
+					fontAwesomeClassname: "",
 				},
 			],
 		},
