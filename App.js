@@ -16,12 +16,8 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-	// url: "https://1hanzla100.github.io/",
 	linkedin: "https://www.linkedin.com/in/eugenio-guimaraes/",
-	github: "https://github.com/EugenioGuimaraes",
-	//instagram: "https://www.instagram.com/zenolobus/",
-	// facebook: "https://www.facebook.com/1hanzla100",
-	// twitter: "https://twitter.com/1hanzla100",
+	github: "https://github.com/EugenioGuimaraes"
 };
 
 export const skillsSection = {
